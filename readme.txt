@@ -1,6 +1,6 @@
 设计模式简介
 
-《Design Patterns: Elements of Reusable Object-Oriented Software》（即后述《设计模式》一书），由 Erich Gamma、Richard Helm、Ralph Johnson 和 John Vlissides 合著（Addison-Wesley，1995）。这几位作者常被称为"四人组（Gang of Four）G
+《Design Patterns: Elements of Reusable Object-Oriented Software》（即后述《设计模式》一书），由 Erich Gamma、Richard Helm、Ralph Johnson 和 John Vlissides 合著（Addison-Wesley，1995）。这几位作者常被称为"四人组（Gang of Four）
 
 面向过程1种
     1.简单工厂：计算器写法
@@ -49,6 +49,9 @@
 
 分类书籍参考
 
+方法论
+	如何阅读一本书
+
 java学习：
     Effective java 中文版第3版
     java核心技术卷2：高级特性 中文版第11版
@@ -65,6 +68,9 @@ c++学习
     大话设计模式
     重构-改善既有代码的设计，martin fowler
     敏捷软件开发：原则、模式与实践，robert c.Martin,2003
+	《Head First设计模式》2007s
+	设计模式之禅（第2版）,秦小波，2014
 
 
-算法学习
+算法/数据结构学习
+	大话数据结构，程杰，http://cj723.cnblogs.com,2011
